@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kronos251&theme=dracula&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Juliojaconi&theme=dracula&border_radius=5" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=Juliojaconi&theme=dracula&row=1&column=4" height="150" />
 </div>
 
